@@ -1,0 +1,12 @@
+# dependencies
+client/node_modules
+server/node_modules
+
+# misc
+.idea
+*.iml
+.DS_Store
+.Trashes
+Thumbs.db
+
+npm-debug.log*
